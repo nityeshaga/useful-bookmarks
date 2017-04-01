@@ -21,7 +21,7 @@
 * [linux.com](https://www.linux.com/)
 > The place for latest news about the open-source world and some beginner's tutorials
 * [Linux knowledge base and tutorial](http://www.linux-tutorial.info/)
-> Another tutorial on Linux
+> A tutorial on Linux
 _______________________________________________________________________________________________________________________________
 
 * [50 Most Frequently Used UNIX / Linux Commands (With Examples)](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
