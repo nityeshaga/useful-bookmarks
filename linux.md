@@ -33,7 +33,7 @@ ________________________________________________________________________________
 * [Repositories - Community Help Wiki](https://help.ubuntu.com/community/Repositories#A_Quick.2C_Tongue-in-cheek_Description_of_the_Ubuntu_Repositories)
 > Know what repositories are from official Ubuntu wiki page
 * [AptGet/Howto - Community Help Wiki](https://help.ubuntu.com/community/AptGet/Howto)
-> Know all about package management using apt get
+> Know all about package management using apt get from official Ubuntu wiki page
 * [RootSudo - Community Help Wiki](https://help.ubuntu.com/community/AptGet/Howto)
-> All about sudo
+> All about sudo from official Ubuntu wiki page
 
