@@ -24,7 +24,7 @@
 > A tutorial on Linux
 _______________________________________________________________________________________________________________________________
 
-* [50 Most Frequently Used UNIX / Linux Commands (With Examples)](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
+* [50 Most Frequently Used UNIX / Linux Commands (With Examples) | thegeekstuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 > Some of them are quite useful if you want to use your terminal more
 * [How to Install and Use Another Desktop Environment | thehowtogeek](https://www.howtogeek.com/193129/how-to-install-and-use-another-desktop-environment-on-linux/)
 > *Self-explanatory*
