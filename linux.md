@@ -9,19 +9,11 @@
 * [The Linux Documentation Project](http://www.tldp.org/)
 > The official website of TLDP
 >
-> Contains various howtos, guides, FAQs and other resources
-* [Linux FAQ | tldp](http://www.tldp.org/FAQ/Linux-FAQ/index.html)
-> An FAQ by The Linux Documentation Project
->
-> A good read if you want to understand the Linux OS better
->
-> and if you have the patience
-* [LDP HOWTO-INDEX](http://www.tldp.org/HOWTO/HOWTO-INDEX/index.html)
-> A list of HOWTO's by TLDP
+> Contains many useful howtos, guides, FAQs and other resources
 * [linux.com](https://www.linux.com/)
 > The place for latest news about the open-source world and some beginner's tutorials
 * [Linux knowledge base and tutorial](http://www.linux-tutorial.info/)
-> A tutorial on Linux
+> A particularly useful tutorial on Linux
 _______________________________________________________________________________________________________________________________
 
 * [50 Most Frequently Used UNIX / Linux Commands (With Examples) | thegeekstuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
