@@ -33,7 +33,7 @@ ________________________________________________________________________________
 > *Self-explanatory*
 
 * [The Beginner’s Guide to Nano, the Linux Command-Line Text Editor](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
-> Nano is a text editor that beginner's can use in place of vi, emacs or any other command-line editor
+> Nano is a text editor that beginners can use in place of vi, emacs or any other command-line editor
 
 * [Repositories - Community Help Wiki](https://help.ubuntu.com/community/Repositories#A_Quick.2C_Tongue-in-cheek_Description_of_the_Ubuntu_Repositories)
 > Know what repositories are from official Ubuntu wiki page
