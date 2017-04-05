@@ -6,7 +6,9 @@
 * [LinuxCommand.org](http://linuxcommand.org/index.php)
 > Teaches some of the strongest, most commonly used commands and ideas of the Linux terminal
 >
-> Covers the basics and a little more of using a terminal
+> Covers the basics and a little more about using a terminal
+>
+> Read the book [The Linux Command Line](http://linuxcommand.org/tlcl.php) by the same author for further reading
 
 * [It's F.O.S.S](https://itsfoss.com/about/)
 > A great blog on Linux.
