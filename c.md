@@ -1,6 +1,6 @@
 ## C- bookmarks
 
-* [C FAQ's](http://c-faq.com/index.html)
+* [C FAQs](http://c-faq.com/index.html)
 > A wealth of information about the C language presented in an FAQ format
 
 * [Sequence points](http://c-faq.com/expr/seqpoints.html)
@@ -9,10 +9,10 @@
 > A page of from the [above](http://c-faq.com/index.html) link
 
 * [The Ten Commandments for C Programmers (Annotated Edition)](http://www.lysator.liu.se/c/ten-commandments.html)
-> Really funny and cool
+> Funny and cool
 
-* [The C programming language notes](http://www.eskimo.com/~scs/cclass/cclass.html)
-> A proffessor's notes on the book
+* [The C Programming Language- notes](http://www.eskimo.com/~scs/cclass/cclass.html)
+> A proffessor's notes on the famed book- K&R
 >
 > Seems good, *not tried though*
 
