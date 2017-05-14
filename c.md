@@ -10,11 +10,13 @@
 
 * [The Ten Commandments for C Programmers (Annotated Edition)](http://www.lysator.liu.se/c/ten-commandments.html)
 > Funny and cool
+>
+> *Probably useful too*
 
 * [The C Programming Language- notes](http://www.eskimo.com/~scs/cclass/cclass.html)
-> A proffessor's notes on the famed book- K&R
+> A professor's notes on the famed book- K&R
 >
-> Seems good, *not tried though*
+> *Seems good, not tried though*
 
 * [C useful resources | tutorialspoint](https://www.tutorialspoint.com/cprogramming/c_useful_resources.htm)
 > *self explanatory*
@@ -25,4 +27,4 @@
 > Hence, a workaround
 
 * [C left-right rule](http://ieng9.ucsd.edu/~cs30x/rt_lt.rule.html) and [Clockwise/spiral rule](http://c-faq.com/decl/spiral.anderson.html)
-> Simple rules to understand some complicated declarations in C
+> Simple rules to understand most complicated declarations in C
