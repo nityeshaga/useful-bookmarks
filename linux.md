@@ -11,7 +11,7 @@
 > Read the book [The Linux Command Line](http://linuxcommand.org/tlcl.php) by the same author for further reading
 
 * [It's F.O.S.S](https://itsfoss.com/about/)
-> A great blog on Linux.
+> A Linux blog.
 
 * [The Linux Documentation Project](http://www.tldp.org/)
 > The official website of TLDP
@@ -19,29 +19,29 @@
 > Contains useful howtos, guides, FAQs and other resources
 
 * [linux.com](https://www.linux.com/)
-> The place for latest news about the open-source world and some beginner's tutorials
+> The place for latest news about the open-source world and some tutorials for beginners
 
 * [Linux knowledge base and tutorial](http://www.linux-tutorial.info/)
 > A particularly useful tutorial on the Linux OS
 _______________________________________________________________________________________________________________________________
 
 * [How I Learned Linux | Let's Go Larval](https://letsgolarval.wordpress.com/2015/06/23/how-i-learned-linux/)
-> A blogger's article on how she learned Linux
+> A blogger's article on how she learnt Linux
 
 * [50 Most Frequently Used UNIX / Linux Commands (With Examples) | thegeekstuff](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
-> Some of them are quite useful if you want to use your terminal more
+> *Some of them are quite useful if you want to use your terminal more*
 
 * [How to Install and Use Another Desktop Environment | thehowtogeek](https://www.howtogeek.com/193129/how-to-install-and-use-another-desktop-environment-on-linux/)
 > *Self-explanatory*
 
 * [The Beginner’s Guide to Nano, the Linux Command-Line Text Editor](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)
-> Nano is a text editor that beginners can use in place of vi, emacs or any other command-line editor
+> Nano is a command-line text editor that beginners may use before trying vi, emacs or any other advanced editor
 
 * [Repositories - Community Help Wiki](https://help.ubuntu.com/community/Repositories#A_Quick.2C_Tongue-in-cheek_Description_of_the_Ubuntu_Repositories)
-> Know what repositories are from official Ubuntu wiki page
+> Know what repositories are, from official Ubuntu wiki page
 
 * [AptGet/Howto - Community Help Wiki](https://help.ubuntu.com/community/AptGet/Howto)
-> Know all about package management using apt get from official Ubuntu wiki page
+> Know all about package management using apt get, from official Ubuntu wiki page
 
 * [RootSudo - Community Help Wiki](https://help.ubuntu.com/community/AptGet/Howto)
-> All about sudo from official Ubuntu wiki page
+> All about sudo, from official Ubuntu wiki page
