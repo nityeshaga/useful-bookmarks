@@ -8,6 +8,6 @@ So, do all that. It is rewarding. This repo is not an excuse for not doing that.
 
 We would also like to see the wonders that you have found. So feel free to contribute.
 
-*But make sure that you don't include the very common bookmarks. Remember, we are __not__ trying to create a __comprehensive list__ of bookmarks about some topic, there's plenty of it on the internet. It is a list of personal bookmarks that have helped you in an unexpected way and that are not amongst the first few suggestions when you google for something generic. You know, something that you just happened to stumble upon and might loose if you didn't bookmark it!*
+*But make sure that you don't include the very common bookmarks. Remember, we are __not trying to create a comprehensive list__ of bookmarks about some topic, there's plenty of it on the internet already. It is a list of personal bookmarks that have helped you in an unexpected way and that are not amongst the first few suggestions when you google for something generic. You know, something that you just happened to stumble upon and might loose if you didn't bookmark it!*
 
-Also star this if you found it helpful! :-)
+Also __*star*__ this if you found it helpful! :-)
